@@ -1,0 +1,24 @@
+#firsth1{
+    text-transform: uppercase;
+}
+button{
+    padding: 15px 25px;
+    border: none;
+    position: fixed;
+    background-color: lightcyan;
+    color: darkgoldenrod;
+    align-self: center;
+}
+#message{
+    padding: 5px;
+    font-size:large ;
+    font-style: italic;
+    text-align: center;
+}
+#slots{
+    padding: 5px;
+    font-size:large ;
+    font-style: italic;
+    text-align: center;
+
+}
